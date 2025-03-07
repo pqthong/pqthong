@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pqthong
-- 👀 I’m interested in Mobile Development and Project Management
+- 👀 I’m interested in AI Development and Project Management
 
 
 <!---
